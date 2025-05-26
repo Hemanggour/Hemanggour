@@ -53,7 +53,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [AI-Assistant](https://github.com/Hemanggour/AI-Assistant) | 🧠 Command-based assistant using Python and C integration. |
+| [AI-Assistant](https://github.com/Hemanggour/AI-Assistant) | 🧠 Command-based assistant using Python and AI integration. |
 | [ToDo-List](https://github.com/Hemanggour/ToDo-List) | ✅ Django To-Do List with auth and MySQL database. |
 | [Data-Analytics](https://github.com/Hemanggour/Data-Analytics) | 📊 Jupyter notebooks for data analysis and insights. |
 | [C-Projects](https://github.com/Hemanggour/C-Projects) | 🎮 Games like Snake Ladder and logic-based programs in C. |
