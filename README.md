@@ -5,7 +5,6 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a Computer Science Engineering student
 - 🤖 I love working on **AI assistants**, **automation**, and **backend systems**
 - 💻 I mostly code in **Python**, **C/C++**, and work with **Flask**, **Django**, and **MySQL**
 - 🌱 Currently learning: **Django REST Framework**, **Socket Programming**, **Machine Learning**
