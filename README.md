@@ -52,10 +52,12 @@
 
 | Project | Description |
 |--------|-------------|
-| [AI-Assistant](https://github.com/Hemanggour/AI-Assistant) | 🧠 Command-based assistant using Python and AI integration. |
-| [ToDo-List](https://github.com/Hemanggour/ToDo-List) | ✅ Django To-Do List with auth and MySQL database. |
-| [Data-Analytics](https://github.com/Hemanggour/Data-Analytics) | 📊 Jupyter notebooks for data analysis and insights. |
-| [C-Projects](https://github.com/Hemanggour/C-Projects) | 🎮 Games like Snake Ladder and logic-based programs in C. |
+| [AI-Agent-with-RAG](https://github.com/Hemanggour/AI-Agent-with-RAG) | AI-powered document Q&A assistant with Retrieval-Augmented Generation pipeline. |
+| [AI-Assistant](https://github.com/Hemanggour/AI-Assistant) | Command-based assistant using Python and AI integration. |
+| [Python-Server-Projects](https://github.com/Hemanggour/Python-Server-Projects) | Collection of Python server projects including Django REST APIs, Flask App and AI Integration. |
+| [Text-Tools-Backend](https://github.com/Hemanggour/Text-Tools-Backend) | Django REST Backend for text processing tools with Summarization, Paraphrasing, Grammer check, AI-reply and Text-to-Speech. |
+| [Memory-Manager-in-C](https://github.com/Hemanggour/Memory-Manager-in-C) | Custom memory management system in C with allocation tracking and leak detection. Great tool for beginners to understand memory management concepts. |
+| [Buckshot-Roulette-in-C](https://github.com/Hemanggour/Buckshot-Roulette-in-C) | CLI Buckshot Roulette game implemented in C with multiple levels, usable tools and game logic. Consist of multiple data structures for efficient gameplay. |
 
 ---
 
