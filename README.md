@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Hemang Gour</h1>
-<h3 align="center">A passionate developer and aspiring AI engineer from India</h3>
+<h3 align="center">AI & Backend engineer from India</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🤖 I love working on **AI assistants**, **automation**, and **backend systems**
-- 💻 I mostly code in **Python**, **C/C++**, and work with **Flask**, **Django**, and **MySQL**
-- 🌱 Currently learning: **Django REST Framework**, **Socket Programming**, **Machine Learning**
-- 🛠️ Building: My personal AI assistant and automation tools
-- ⚡ Fun fact: I love blending low-level languages (C) with high-level Python scripts
+- 🏗 I design systems
+- 🤖 Building intelligent agent workflows and RAG-powered assistants
+- ⚙️ Focused on scalable backend architectures and efficient resource usage
+- 🔍 Always optimizing for clarity, modularity, and performance
 
 ---
 
@@ -48,16 +47,16 @@
 
 ---
 
-## 📌 Pinned Projects (suggested)
+## 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| [AI-Agent-with-RAG](https://github.com/Hemanggour/AI-Agent-with-RAG) | AI-powered document Q&A assistant with Retrieval-Augmented Generation pipeline. |
-| [AI-Assistant](https://github.com/Hemanggour/AI-Assistant) | Command-based assistant using Python and AI integration. |
-| [Python-Server-Projects](https://github.com/Hemanggour/Python-Server-Projects) | Collection of Python server projects including Django REST APIs, Flask App and AI Integration. |
-| [Text-Tools-Backend](https://github.com/Hemanggour/Text-Tools-Backend) | Django REST Backend for text processing tools with Summarization, Paraphrasing, Grammer check, AI-reply and Text-to-Speech. |
-| [Memory-Manager-in-C](https://github.com/Hemanggour/Memory-Manager-in-C) | Custom memory management system in C with allocation tracking and leak detection. Great tool for beginners to understand memory management concepts. |
-| [Buckshot-Roulette-in-C](https://github.com/Hemanggour/Buckshot-Roulette-in-C) | CLI Buckshot Roulette game implemented in C with multiple levels, usable tools and game logic. Consist of multiple data structures for efficient gameplay. |
+|---------|------------|
+| [Sound-Node](https://github.com/Hemanggour/Sound-Node) | Self-hosted music streaming platform with HTTP range-based audio streaming, optimized memory management, and Dockerized deployment. Designed for production use. |
+| [Agents-Workbench](https://github.com/Hemanggour/Agents-Workbench) | Modular AI agent framework for building tool-driven workflows using LangChain and structured orchestration patterns. |
+| [AI-Agent-with-RAG](https://github.com/Hemanggour/AI-Agent-with-RAG) | Document-based Q&A assistant implementing Retrieval-Augmented Generation with vector search and structured retrieval pipelines. |
+| [Memory-Manager-in-C](https://github.com/Hemanggour/Memory-Manager-in-C) | Custom memory management system in C featuring allocation tracking, leak detection, and low-level resource control. |
+| [Text-Tools-Backend](https://github.com/Hemanggour/Text-Tools-Backend) | Scalable Django REST backend offering AI-powered text processing APIs including summarization, paraphrasing, grammar correction, and TTS. |
+| [Buckshot-Roulette-in-C](https://github.com/Hemanggour/Buckshot-Roulette-in-C) | CLI game built in C showcasing structured game logic, custom data structures, and modular system design. |
 
 ---
 
@@ -66,12 +65,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=hemanggour&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hemanggour&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanggour&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hemanggour&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
