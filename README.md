@@ -71,6 +71,12 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hemanggour&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanggour&theme=tokyo-night" />
+</p>
+
+----
 
 <!-- Proudly created with ❤️ by Hemang Gour -->
